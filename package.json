@@ -1,0 +1,25 @@
+{
+  "name": "semantic-version-npm-gitflow",
+  "version": "1.0.0",
+  "description": "documentacion versionamiento semantico con npm en git",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flkt-crnpio/semantic-version-npm-gitflow.git"
+  },
+  "keywords": [
+    "semantic",
+    "version",
+    "npm",
+    "gitflow"
+  ],
+  "author": "flkt.crnpio@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flkt-crnpio/semantic-version-npm-gitflow/issues"
+  },
+  "homepage": "https://github.com/flkt-crnpio/semantic-version-npm-gitflow#readme"
+}

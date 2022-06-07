@@ -82,8 +82,6 @@ Ref
 
 [https://nodejs.dev/learn/semantic-versioning-using-npm](https://nodejs.dev/learn/semantic-versioning-using-npm)
 
-[https://github.com/flkt-crnpio/semantic-version-npm-gitflow-test](https://github.com/flkt-crnpio/semantic-version-npm-gitflow-test)
-
 [https://semver.org/spec/v2.0.0-rc.1.html](https://semver.org/spec/v2.0.0-rc.1.html)
 
 [https://danielkummer.github.io/git-flow-cheatsheet/](https://danielkummer.github.io/git-flow-cheatsheet/)
