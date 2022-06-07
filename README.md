@@ -68,7 +68,9 @@ Para fijar las versiones que se utilizan en el package y no estar actualizando e
 | | | | delete hotfix branch | `npm version patch` + `git push --tags` |
 | | merge main a develop `npm update` | | | |
 
-Ref
+___
+
+#### Ref
 
 [https://www.freecodecamp.org/news/how-i-established-a-good-release-process-in-javascript-b93e57e247e1/](https://www.freecodecamp.org/news/how-i-established-a-good-release-process-in-javascript-b93e57e247e1/)
 
@@ -88,5 +90,7 @@ Ref
 
 [http://git-scm.com/book/en/v2](http://git-scm.com/book/en/v2)
 
-Descargable
-[flujo-en-git-y-versionamiento-semantico.pdf](hhttps://github.com/flkt-crnpio/semantic-version-npm-gitflow/blob/main/flujo-en-git-y-versionamiento-semantico.pdf "download")
+
+#### PDF Descargable
+
+[Flujo en git y versionamiento semantico](https://github.com/flkt-crnpio/semantic-version-npm-gitflow/raw/384ca773b8001b5d5a67e3a3f9f9fca8e59feda6/flujo-en-git-y-versionamiento-semantico.pdf "download")
