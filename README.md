@@ -87,3 +87,6 @@ Ref
 [https://danielkummer.github.io/git-flow-cheatsheet/](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 [http://git-scm.com/book/en/v2](http://git-scm.com/book/en/v2)
+
+Descargable
+[flujo-en-git-y-versionamiento-semantico.pdf](hhttps://github.com/flkt-crnpio/semantic-version-npm-gitflow/blob/main/flujo-en-git-y-versionamiento-semantico.pdf "download")
