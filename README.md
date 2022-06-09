@@ -62,11 +62,11 @@ Para fijar las versiones que se utilizan en el package y no estar actualizando e
 | delete feature/actualizacion branch | `npm version minor` | merge release candidatev1.0.0-rc.2 | | |
 | | | | | merge release a main |
 | | | delete release branch | | `npm version major` + `git push --tags` |
-| | merge main a develop `npm update` | | | |
+| | merge main a develop | | | |
 | | | | checkout hotfix/un-error-a-solucionar | |
 | | | | | merge hotfix a main |
 | | | | delete hotfix branch | `npm version patch` + `git push --tags` |
-| | merge main a develop `npm update` | | | |
+| | merge main a develop | | | |
 
 ___
 
